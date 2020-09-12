@@ -1,0 +1,1 @@
+/home/rahul/catkin_ws/devel/.private/rrc_control/lib/pkgconfig/rrc_control.pc

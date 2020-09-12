@@ -1,0 +1,9 @@
+libdir=/home/rahul/catkin_ws/devel/.private/yaml_cpp_catkin/lib
+includedir=/home/rahul/catkin_ws/devel/.private/yaml_cpp_catkin/include
+
+Name: Yaml-cpp0.5
+Description: A YAML parser and emitter for C++
+Version: 0.5.3
+Requires:
+Libs: -L${libdir} -lyaml-cpp0.5
+Cflags: -I${includedir}

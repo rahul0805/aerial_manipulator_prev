@@ -1,0 +1,4 @@
+[ 33%] Built target rrbot_wrapping
+[ 33%] Built target joint_trajectory_controller_xacro_generated_to_devel_space_
+[ 66%] Built target rrbot
+[100%] Built target joint_trajectory_controller

@@ -1,0 +1,1 @@
+/home/rahul/catkin_ws/devel/.private/gripper_action_controller/lib/pkgconfig/gripper_action_controller.pc

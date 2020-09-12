@@ -1,0 +1,8 @@
+prefix=/home/rahul/catkin_ws/devel/.private/joint_state_publisher
+
+Name: joint_state_publisher
+Description: Description of joint_state_publisher
+Version: 1.12.15
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,34 @@
+[35m[1mScanning dependencies of target glog_src[0m
+[ 12%] [34m[1mCreating directories for 'glog_src'[0m
+[ 25%] [34m[1mPerforming download step (download, verify and extract) for 'glog_src'[0m
+-- downloading...
+     src='https://github.com/google/glog/archive/v0.3.5.zip'
+     dst='/home/rahul/catkin_ws/build/glog_catkin/glog_src-prefix/src/v0.3.5.zip'
+     timeout='none'
+-- [download 100% complete]
+-- downloading... done
+-- verifying file...
+     file='/home/rahul/catkin_ws/build/glog_catkin/glog_src-prefix/src/v0.3.5.zip'
+-- verifying file... warning: did not verify file - no URL_HASH specified?
+-- extracting...
+     src='/home/rahul/catkin_ws/build/glog_catkin/glog_src-prefix/src/v0.3.5.zip'
+     dst='/home/rahul/catkin_ws/build/glog_catkin/glog_src-prefix/src/glog_src'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[ 50%] [34m[1mPerforming patch step for 'glog_src'[0m
+[ 50%] [34m[1mNo update step for 'glog_src'[0m
+patching file src/glog/logging.h.in
+patching file src/windows/glog/logging.h
+patching file src/glog/logging.h.in
+patching file src/windows/glog/logging.h
+[ 62%] [34m[1mPerforming configure step for 'glog_src'[0m
+/bin/sh: 1: autoreconf: not found
+make[2]: *** [glog_src-prefix/src/glog_src-stamp/glog_src-configure] Error 127
+CMakeFiles/glog_src.dir/build.make:108: recipe for target 'glog_src-prefix/src/glog_src-stamp/glog_src-configure' failed
+CMakeFiles/Makefile2:291: recipe for target 'CMakeFiles/glog_src.dir/all' failed
+make[1]: *** [CMakeFiles/glog_src.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

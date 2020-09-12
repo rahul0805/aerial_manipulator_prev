@@ -1,0 +1,52 @@
+# PD position controller parameters (origiinal)
+#position_gain: {x: 4, y: 4, z: 4}
+#velocity_gain: {x: 2.7, y: 2.7, z: 2.7}
+#position_gain: {x: 2.5, y: 2.5, z: 4}
+#velocity_gain: {x: 2.5, y: 2.5, z: 2.5}
+#position_integral_gain: {x: 2.5, y: 2.5, z: 2.5}
+
+#position_gain: {x: 2, y: 2, z: 2}
+#velocity_gain: {x: 2, y: 2, z: 2}
+#position_integral_gain: {x: 0.5, y: 0.5, z: 0.5}
+#attitude_gain: {x: 1, y: 1, z: 0.035}
+#angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}
+
+# PID position controller parameters
+ position_gain: {x: 3, y: 3, z: 6}
+ velocity_gain: {x: 3, y: 3, z: 3}
+ position_integral_gain: {x: 1.5, y: 1.5, z: 1.5}
+ #position_integral_gain: {x: 0, y: 0, z: 0} 
+ attitude_gain: {x: 1.75, y: 1.75, z: 0.07}
+ # attitude_gain: {x: 2, y: 2, z: 0.070}
+ angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}
+
+# PID position controller parameters
+# position_gain: {x: 1.6667, y: 1.6667, z: 1.6667}
+# velocity_gain: {x: 3, y: 3, z: 3}
+# position_integral_gain: {x: 0.167, y: 0.167, z: 0.167}
+# attitude_gain: {x: 1, y: 1, z: 0.035}
+# angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}
+
+# PID position controller parameters
+# position_gain: {x: 1, y: 1, z: 1}
+# velocity_gain: {x: 1.8, y: 1.8, z: 1.8}
+# position_integral_gain: {x: 0, y: 0, z: 0}
+# attitude_gain: {x: 1, y: 1, z: 0.035}
+# angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}
+
+# PD position controller parameters (f450) moment: 1.2e-2
+# position_gain: {x: 2.4, y: 2.4, z: 2.2}
+# velocity_gain: {x: 1.6, y: 1.6, z: 1.6}
+# position_integral_gain: {x: 0, y: 0, z: 0}
+# attitude_gain: {x: 0.5, y: 0.5, z: 0.035}
+# angular_rate_gain: {x: 0.5, y: 0.5, z: 0.01}
+
+
+
+
+#Test
+# position_gain: {x: 5, y: 5, z: 5}
+# velocity_gain: {x: 0, y: 0, z: 0}
+# position_integral_gain: {x: 0, y: 0, z: 0}
+# attitude_gain: {x: 1, y: 1, z: 0.035}
+# angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}

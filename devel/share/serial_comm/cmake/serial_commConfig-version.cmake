@@ -1,0 +1,1 @@
+/home/rahul/catkin_ws/devel/.private/serial_comm/share/serial_comm/cmake/serial_commConfig-version.cmake

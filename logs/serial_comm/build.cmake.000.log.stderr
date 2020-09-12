@@ -1,0 +1,20 @@
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/cmake_modules/cmake/Modules/FindEigen.cmake:62 (message):
+  The FindEigen.cmake Module in the cmake_modules package is deprecated.
+
+  Please use the FindEigen3.cmake Module provided with Eigen.  Change
+  instances of find_package(Eigen) to find_package(Eigen3).  Check the
+  FindEigen3.cmake Module for the resulting CMake variable names.
+
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:15 (find_package)
+
+
+CMake Warning (dev) at CMakeLists.txt:39 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "$(catkin_EXPORTED_TARGETS)" of target
+  "serial_comm_node" does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

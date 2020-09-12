@@ -1,0 +1,5 @@
+Symlinking /home/rahul/catkin_ws/devel/lib/libserial_comm.so
+Symlinking /home/rahul/catkin_ws/devel/lib/pkgconfig/serial_comm.pc
+Symlinking /home/rahul/catkin_ws/devel/lib/serial_comm/serial_comm_node
+Symlinking /home/rahul/catkin_ws/devel/share/serial_comm/cmake/serial_commConfig.cmake
+Symlinking /home/rahul/catkin_ws/devel/share/serial_comm/cmake/serial_commConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rahul/catkin_ws/devel/.private/gripper_action_controller/setup.sh

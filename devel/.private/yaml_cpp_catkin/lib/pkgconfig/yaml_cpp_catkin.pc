@@ -1,0 +1,8 @@
+prefix=/home/rahul/catkin_ws/devel/.private/yaml_cpp_catkin
+
+Name: yaml_cpp_catkin
+Description: Description of yaml_cpp_catkin
+Version: 0.5.90
+Cflags: -I/home/rahul/catkin_ws/devel/.private/yaml_cpp_catkin/include
+Libs: -L${prefix}/lib -lyaml-cpp0.5
+Requires: 

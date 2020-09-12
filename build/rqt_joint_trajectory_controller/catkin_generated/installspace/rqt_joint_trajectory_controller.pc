@@ -1,0 +1,8 @@
+prefix=/home/rahul/catkin_ws/install
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.13.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

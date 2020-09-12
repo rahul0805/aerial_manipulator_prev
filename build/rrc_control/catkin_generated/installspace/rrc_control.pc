@@ -1,0 +1,8 @@
+prefix=/home/rahul/catkin_ws/install
+
+Name: rrc_control
+Description: Description of rrc_control
+Version: 2.1.2
+Cflags: -I${prefix}/include -I/home/rahul/catkin_ws/devel/include/eigen3
+Libs: -L${prefix}/lib -lpid_position_controller -lsmc_position_controller -lasmc_position_controller -lautde_position_controller -lreconfig_pid_controller
+Requires: geometry_msgs mav_msgs nav_msgs roscpp rospy sensor_msgs message_runtime serial_comm mav_trajectory_generation_ros msg_check

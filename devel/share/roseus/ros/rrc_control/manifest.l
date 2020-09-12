@@ -1,0 +1,1 @@
+/home/rahul/catkin_ws/devel/.private/rrc_control/share/roseus/ros/rrc_control/manifest.l

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rahul/catkin_ws/devel/.private/serial_comm/setup.sh

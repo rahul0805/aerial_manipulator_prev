@@ -1,0 +1,6 @@
+devel_space: /home/rahul/catkin_ws/devel
+install: false
+install_space: /home/rahul/catkin_ws/install
+profile: default
+source_space: /home/rahul/catkin_ws/src
+workspace: /home/rahul/catkin_ws
